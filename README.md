@@ -1,4 +1,4 @@
-# PHP Directory Recursion
+# PHP Directories Recursion
 
 PHP script to move by directories and count sum using iterators.
 
